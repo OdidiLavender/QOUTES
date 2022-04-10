@@ -1,5 +1,5 @@
 <div class="container text-center">
-    <h1> Quotes </h1>
+    <h1 style="width: 100%;"> Quotes </h1>
 </div>
 <div class="container">
     <app-quote-form (addQuote) = "addNewQuote($event)"></app-quote-form>
@@ -12,7 +12,7 @@
                 <div class="card-body">
                     <blockquote class="blockquote mb-0">
                     <p>{{quote.description}}</p>
-                    <footer class="blockquote-footer mt-3"><cite title="Source Title">{{quote.author}} </cite></footer>
+                    <footer class="blockquote-footer mt-3" style="color: black;"><cite title="Source Title">{{quote.author}} </cite></footer>
                     </blockquote>
                 </div>
                 <div class="card-footer">
