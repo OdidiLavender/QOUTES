@@ -1,1 +1,41 @@
-/* You can add global styles to this file, and also import other style files */
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background: grey;
+}
+
+
+h1{
+  
+        background-image: url(src/assets/pattern.jpeg);
+        color: white;
+        align-items: center;
+        /* align-items: center; */
+        justify-content: center;
+    }
+.containernav{
+    align-items: center;
+    justify-content: center;
+}
+p{
+    align-items: center;
+    justify-content: center;
+}
+.card-body{
+    background-color: gray;
+    color: black;
+}
+.card-header{
+    color: white;
+    background-image: url(src/assets/pattern.jpeg);
+}
+.card-footer{
+    color: white;
+    background-image: url(src/assets/pattern.jpeg);
+}
+.mt-3{
+    color: black;
+}
