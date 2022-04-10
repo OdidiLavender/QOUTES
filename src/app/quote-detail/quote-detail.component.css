@@ -1,6 +1,10 @@
 @import url('https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css'); 
 
 #del{
-    color: red;
-    border-radius: 50px;
+    color: white;
+    background-color: red;
+    /* border-radius: 10px; */
+    border: none;
+    height: 100%;
+    width: 100%;
 }
