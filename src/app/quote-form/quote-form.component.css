@@ -1,7 +1,7 @@
 .btn{
-    background-color:black;
+    background-image: url(src/assets/pattern.jpeg);
     height: 50%;
-    width: 40%;
+    width: 20%;
     color: white;
     border: none;
 }
