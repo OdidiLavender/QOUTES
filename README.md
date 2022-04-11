@@ -1,8 +1,8 @@
 # Quotes
-#### By **Lavender Odidi**
+## By *Lavender Odidi*
 
 ## Description
-This is an angular cli app that allows users to create quotes, view created quotes ,like and can dislike.
+This is an angular cli app that one can create new quote ,like ,dislike and delete a particular quote.
 
 
 
