@@ -27,6 +27,7 @@ p{
 .card-body{
     background-color: gray;
     color: black;
+    border: none;
 }
 .card-header{
     color: white;
