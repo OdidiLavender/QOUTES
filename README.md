@@ -1,4 +1,10 @@
 # Quotes
+#### By **Lavender Odidi**
+
+## Description
+This is an angular cli app that allows users to create quotes, view created quotes ,like and can dislike.
+
+
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.3.2.
 
@@ -25,3 +31,23 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+
+
+## Setup/Installation Requirements
+* You need to have visual studio code installed.
+* Clone the repository
+* Go Live.
+## Known Bugs
+There are no known bugs.
+## Technologies Used
+* HTML 
+* CSS 
+* Angular
+* Bootstrap
+## Support and contact details
+Email : lavender.odidi@student.moringaschool.com
+### License
+[MIT License](./LICENSE)
+
+Copyright (c) [2022] [Lavender Odidi]
+
